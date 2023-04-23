@@ -1,5 +1,5 @@
 # End-Boot
-End-Boot is a bootloader written in x86 assembly language that aims to be the go-to tool in case of an apocalypse. This bootloader is designed to be simple, robust, and reliable, making it the perfect choice when the world goes to hell.
+End-Boot is a bootloader written in x86 assembly language that aims to be the go-to tool in case of an apocalypse. This bootloader is designed to be simple, robust, and reliable, making it the perfect choice when the world goes to hell. Inspi+red from [this OS tut](https://github.com/cfenollosa/os-tutorial)
 
 # Features
 
