@@ -18,4 +18,4 @@ Please note that End-Boot is not intended to be a replacement for proper disaste
 
 # Conclusion
 
-If you're looking for a simple, reliable, and effective bootloader for your apocalypse plan, look no further than BootLOL-ypse. This tiny piece of code may just be the key to surviving the end of the world (*if you want to;)*).
+If you're looking for a simple, reliable, and effective bootloader for your apocalypse plan, look no further than End-Boot. This tiny piece of code may just be the key to surviving the end of the world (*if you want to;)*).
