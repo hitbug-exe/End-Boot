@@ -5,7 +5,7 @@ End-Boot is a bootloader written in x86 assembly language that aims to be the go
 
 * **Lightweight**: End-Boot is a tiny piece of code that can fit in just a few sectors of your hard drive.
 * **Fast**: This bootloader is optimized for speed, so you can get your system up and running as quickly as possible.
-* **Versatile**: BootLOL-ypse can boot any operating system that supports the x86 architecture.
+* **Versatile**: End-Boot can boot any operating system that supports the x86 architecture.
 * **Robust**: This bootloader is designed to handle unexpected situations, such as disk errors or missing files.
 
 # Apocalypse Plan
